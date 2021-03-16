@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269258494553",
+    "project_id": "mibet---siu-phm-nh-ci---vip202",
+    "storage_bucket": "mibet---siu-phm-nh-ci---vip202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269258494553:android:e52117bc360179dea0d748",
+        "android_client_info": {
+          "package_name": "io.giodude.mibet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269258494553-28thv4kr0q1nnj03qhcndftj7i2b4lt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmVo3FU80bWeSPquAeJzJ0caxPIwgF4hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269258494553-28thv4kr0q1nnj03qhcndftj7i2b4lt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
